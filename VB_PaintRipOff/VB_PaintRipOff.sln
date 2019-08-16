@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB_PaintRipOff", "VB_PaintRipOff\VB_PaintRipOff.vbproj", "{DB3252EB-0DEB-4D8F-9BC1-C0FAB539802C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB3252EB-0DEB-4D8F-9BC1-C0FAB539802C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3252EB-0DEB-4D8F-9BC1-C0FAB539802C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3252EB-0DEB-4D8F-9BC1-C0FAB539802C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3252EB-0DEB-4D8F-9BC1-C0FAB539802C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

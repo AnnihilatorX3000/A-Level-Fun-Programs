@@ -1,0 +1,21 @@
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_CraneThingy\VB_Ranodmikiole\bin\Debug\VB_Ranodmikiole.exe.config
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_CraneThingy\VB_Ranodmikiole\bin\Debug\VB_Ranodmikiole.exe
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_CraneThingy\VB_Ranodmikiole\bin\Debug\VB_Ranodmikiole.pdb
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_CraneThingy\VB_Ranodmikiole\bin\Debug\VB_Ranodmikiole.xml
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_CraneThingy\VB_Ranodmikiole\obj\Debug\VB_Ranodmikiole.Resources.resources
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_CraneThingy\VB_Ranodmikiole\obj\Debug\VB_Ranodmikiole.vbproj.GenerateResource.Cache
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_CraneThingy\VB_Ranodmikiole\obj\Debug\VB_Ranodmikiole.exe
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_CraneThingy\VB_Ranodmikiole\obj\Debug\VB_Ranodmikiole.xml
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_CraneThingy\VB_Ranodmikiole\obj\Debug\VB_Ranodmikiole.pdb
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_CraneThingy\VB_Ranodmikiole\obj\Debug\VB_Ranodmikiole.vbprojResolveAssemblyReference.cache
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_CraneThingy\VB_Ranodmikiole\bin\Debug\VB_Ranodmikiole.exe.config
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_CraneThingy\VB_Ranodmikiole\bin\Debug\VB_Ranodmikiole.exe
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_CraneThingy\VB_Ranodmikiole\bin\Debug\VB_Ranodmikiole.pdb
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_CraneThingy\VB_Ranodmikiole\bin\Debug\VB_Ranodmikiole.xml
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_CraneThingy\VB_Ranodmikiole\obj\Debug\VB_Ranodmikiole.vbprojAssemblyReference.cache
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_CraneThingy\VB_Ranodmikiole\obj\Debug\VB_Ranodmikiole.Resources.resources
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_CraneThingy\VB_Ranodmikiole\obj\Debug\VB_Ranodmikiole.vbproj.GenerateResource.cache
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_CraneThingy\VB_Ranodmikiole\obj\Debug\VB_Ranodmikiole.vbproj.CoreCompileInputs.cache
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_CraneThingy\VB_Ranodmikiole\obj\Debug\VB_Ranodmikiole.exe
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_CraneThingy\VB_Ranodmikiole\obj\Debug\VB_Ranodmikiole.xml
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_CraneThingy\VB_Ranodmikiole\obj\Debug\VB_Ranodmikiole.pdb

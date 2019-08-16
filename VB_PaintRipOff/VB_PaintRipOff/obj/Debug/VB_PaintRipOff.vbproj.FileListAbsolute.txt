@@ -1,0 +1,23 @@
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_PaintRipOff\VB_PaintRipOff\bin\Debug\VB_PaintRipOff.exe.config
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_PaintRipOff\VB_PaintRipOff\bin\Debug\VB_PaintRipOff.exe
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_PaintRipOff\VB_PaintRipOff\bin\Debug\VB_PaintRipOff.pdb
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_PaintRipOff\VB_PaintRipOff\bin\Debug\VB_PaintRipOff.xml
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_PaintRipOff\VB_PaintRipOff\obj\Debug\VB_PaintRipOff.vbprojResolveAssemblyReference.cache
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_PaintRipOff\VB_PaintRipOff\obj\Debug\VB_PaintRipOff.Form1.resources
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_PaintRipOff\VB_PaintRipOff\obj\Debug\VB_PaintRipOff.Resources.resources
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_PaintRipOff\VB_PaintRipOff\obj\Debug\VB_PaintRipOff.vbproj.GenerateResource.Cache
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_PaintRipOff\VB_PaintRipOff\obj\Debug\VB_PaintRipOff.exe
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_PaintRipOff\VB_PaintRipOff\obj\Debug\VB_PaintRipOff.xml
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015\Projects\VB_PaintRipOff\VB_PaintRipOff\obj\Debug\VB_PaintRipOff.pdb
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_PaintRipOff\VB_PaintRipOff\bin\Debug\VB_PaintRipOff.exe.config
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_PaintRipOff\VB_PaintRipOff\bin\Debug\VB_PaintRipOff.exe
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_PaintRipOff\VB_PaintRipOff\bin\Debug\VB_PaintRipOff.pdb
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_PaintRipOff\VB_PaintRipOff\bin\Debug\VB_PaintRipOff.xml
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_PaintRipOff\VB_PaintRipOff\obj\Debug\VB_PaintRipOff.vbprojAssemblyReference.cache
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_PaintRipOff\VB_PaintRipOff\obj\Debug\VB_PaintRipOff.Form1.resources
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_PaintRipOff\VB_PaintRipOff\obj\Debug\VB_PaintRipOff.Resources.resources
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_PaintRipOff\VB_PaintRipOff\obj\Debug\VB_PaintRipOff.vbproj.GenerateResource.cache
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_PaintRipOff\VB_PaintRipOff\obj\Debug\VB_PaintRipOff.vbproj.CoreCompileInputs.cache
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_PaintRipOff\VB_PaintRipOff\obj\Debug\VB_PaintRipOff.exe
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_PaintRipOff\VB_PaintRipOff\obj\Debug\VB_PaintRipOff.xml
+C:\Users\AnnihilatorX3000\Documents\Visual Studio 2015 Projects\VB_PaintRipOff\VB_PaintRipOff\obj\Debug\VB_PaintRipOff.pdb
